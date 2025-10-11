@@ -30,9 +30,19 @@
               "icon": "lucide-file",
               "title": "Practice Notes"
             }
+          },
+          {
+            "id": "0a9c4ede4f7cba45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,9 +191,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "90577218d033b6a4",
+  "active": "0a9c4ede4f7cba45",
   "lastOpenFiles": [
+    "homework/hwk10-11.md.md",
     "AWS/Practice Notes.md",
+    "homework",
     "AWS/notes.md",
     "AWS"
   ]
