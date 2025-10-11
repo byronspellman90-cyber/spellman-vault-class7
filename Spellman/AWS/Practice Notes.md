@@ -3,7 +3,11 @@
 This is a **Windows-specific walkthrough** for setting up the **Obsidian Git** plugin. It assumes you want to manage your Obsidian vault with Git and sync to a GitHub, GitLab, or Bitbucket repository. 
 
 sync test from Byron
-  
+
+first sync test from obsidian on windows
+
+
+
 ---  
   
 ## 0) Prerequisites  
