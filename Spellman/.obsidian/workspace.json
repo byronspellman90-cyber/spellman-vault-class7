@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8aed17f8c7fcd5a2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "90577218d033b6a4",
             "type": "leaf",
             "state": {
@@ -35,14 +25,10 @@
             "id": "952bfe741134cb84",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "links.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "links.md"
+              "title": "New tab"
             }
           },
           {
@@ -86,23 +72,9 @@
               "icon": "lucide-file",
               "title": "Coding in VSCODE"
             }
-          },
-          {
-            "id": "36404ce8c2eaba1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,18 +223,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "36404ce8c2eaba1f",
+  "active": "7ce8193d47f1391f",
   "lastOpenFiles": [
-    "Python/Notes.md",
     "Untitled.md",
-    "Python",
     "Coding In VSCODE/Coding in VSCODE.md",
-    "Coding In VSCODE",
     "homework/hwk10-11.md.md",
     "Links/links.md.md",
+    "AWS/Practice Notes.md",
+    "Untitled",
+    "Untitled/Untitled.md",
+    "Python/Notes.md",
+    "Python",
+    "Coding In VSCODE",
     "Links",
     "AWS/Bastion Host/Baston Host.md",
-    "AWS/Practice Notes.md",
     "AWS/Bastion Host",
     "homework",
     "AWS/notes.md",
