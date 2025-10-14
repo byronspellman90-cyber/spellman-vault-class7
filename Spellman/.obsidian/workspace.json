@@ -25,10 +25,14 @@
             "id": "952bfe741134cb84",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           },
           {
@@ -46,16 +50,6 @@
             }
           },
           {
-            "id": "62e127ad010ae109",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "ad5034c788ad6919",
             "type": "leaf",
             "state": {
@@ -66,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +209,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "ad5034c788ad6919",
+  "active": "952bfe741134cb84",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Links/links.md.md",
+    "Subnets.md",
+    "Untitled",
     "Basic Computer Notes/Basic Computer.md",
     "Basic Computer Notes",
     "homework/Python Notes.md",
@@ -225,7 +223,6 @@
     "AWS/Practice Notes.md",
     "Python/Python Notes.md",
     "Coding In VSCODE/Coding in VSCODE.md",
-    "Links/links.md.md",
     "Python",
     "Untitled/Untitled.md",
     "Python/Notes.md",
